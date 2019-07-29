@@ -1,6 +1,6 @@
 # Development challenge
 
-Medcloud's challenge for the general development vacancy.
+Medcloud's challenge for the general development internship vacancy.
 
 ## Problem
 
@@ -20,6 +20,6 @@ DynamoDB with Lambda and API Gateway (you can use AppSync too): https://aws.amaz
 
 ## Delivery
 
-You MUST fork this repository to your own account and push you code to it. When you done, you must send a email to cv@medcloud.com.br with your curriculum, fork, DockerHub image and how many time you managed to complete the challenge.
+You MUST fork this repository to your own account and push you code to it. When you finish it, you must send a email to cv@medcloud.com.br with your curriculum, fork, DockerHub image and how many time you managed to complete the challenge.
 
-Good luck! Any doubts, send a email to cv@medcloud.com.br.
+Good luck! Any doubts, feel free to send a email to cv@medcloud.com.br.
