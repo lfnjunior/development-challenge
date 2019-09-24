@@ -4,19 +4,22 @@ Medcloud's challenge for the general development internship vacancy.
 
 ## Problem
 
-We need a system with a local CRUD and database to manage a collection of patients, and in real-time, replicate the inserts/edits/deletes on a remote database.
+[x] System with a local CRUD.
+[ ] Local database to manage a collection of patients.
+[ ] And in real-time, replicate the inserts/edits/deletes on a remote database.
+[x] Remote database to manage a collection of patients.
 
 ## Spec
 
-To develop the CRUD, you MUST use the web frameworks React and Redux.
-In the cloud, you MUST use the AWS Free Tier for your database and REST API that you will use to interact with your local database.
-Locally, you MUST use Docker to host your database and CRUD.
+[x] React 
+[x] Redux
+[x] AWS Free Tier for your database and REST API.
+[ ] Use to interact with your local database.
+[ ] Locally, Docker to host your database and CRUD.
 
 ## References
 
-Intro to React: https://reactjs.org/tutorial/tutorial.html
-Getting started with Redux: https://egghead.io/courses/getting-started-with-redux
-DynamoDB with Lambda and API Gateway (you can use AppSync too): https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
+[x] DynamoDB with Lambda and API Gateway 
 
 ## Delivery
 

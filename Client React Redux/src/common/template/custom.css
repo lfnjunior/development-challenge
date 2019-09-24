@@ -1,0 +1,11 @@
+
+button {
+    margin-left: 5px;
+}
+
+.content-wrapper {
+    margin-left: 0px;
+}
+.navbar-static-top {
+    margin-left: 0px !important; 
+}
