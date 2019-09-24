@@ -20,14 +20,6 @@ Medcloud's challenge accepted by lfnjunior.
 ## References
 
 - [x] DynamoDB with Lambda and API Gateway 
-- [x] System with a local CRUD.
-- [ ] Local database to manage a collection of patients.
-- [ ] And in real-time, replicate the inserts/edits/deletes on a remote database.
-- [x] Remote database to manage a collection of patients.
-
-## References
-
-- [x] DynamoDB with Lambda and API Gateway 
 
 ## Quick Start
 
