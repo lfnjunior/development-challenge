@@ -1,9 +1,10 @@
 # Development challenge
 
-Medcloud's challenge for the general development internship vacancy.
+Medcloud's challenge accepted by lfnjunior.
 
 ## Problem
 
+<<<<<<< HEAD
 [x] System with a local CRUD.
 [ ] Local database to manage a collection of patients.
 [ ] And in real-time, replicate the inserts/edits/deletes on a remote database.
@@ -20,9 +21,38 @@ Medcloud's challenge for the general development internship vacancy.
 ## References
 
 [x] DynamoDB with Lambda and API Gateway 
+=======
+- [x] System with a local CRUD.
+- [ ] Local database to manage a collection of patients.
+- [ ] And in real-time, replicate the inserts/edits/deletes on a remote database.
+- [x] Remote database to manage a collection of patients.
 
-## Delivery
+## Spec
 
-You MUST fork this repository to your own account and push you code to it. When you finish it, you must send a email to cv@medcloud.com.br with your curriculum, fork, DockerHub image and how many time you managed to complete the challenge.
+- [x] React 
+- [x] Redux
+- [x] AWS Free Tier for your database and REST API.
+- [ ] Use Rest API to interact with your local database.
+- [ ] Locally, Docker to host your database and CRUD.
 
-Good luck! Any doubts, feel free to send an email to cv@medcloud.com.br.
+## References
+
+- [x] DynamoDB with Lambda and API Gateway 
+>>>>>>> 2b1280e07550b4ab00dca92f0429f93875fcca79
+
+## Quick Start
+
+Into 'Client React Redux' folder, you will need run the following command to install all necessary dependencies:
+```
+$ npm i
+```
+then
+
+```
+$ npm run dev
+```
+
+## API Rest AWS
+
+Inside the folder API Rest AWS are the serverless scripts that I used to create the Rest API.
+But the frontend already contains the Rest API endpoint
