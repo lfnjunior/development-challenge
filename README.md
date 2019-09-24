@@ -32,3 +32,8 @@ then
 ```
 $ npm run dev
 ```
+
+## API Rest AWS
+
+Inside the folder API Rest AWS are the serverless scripts that I used to create the Rest API.
+But the frontend already contains the Rest API endpoint
