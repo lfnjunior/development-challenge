@@ -1,6 +1,6 @@
 # Development challenge
 
-Medcloud's challenge for the general development internship vacancy.
+Medcloud's challenge accepted by lfnjunior.
 
 ## Problem
 
